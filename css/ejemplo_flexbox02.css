@@ -1,0 +1,51 @@
+
+
+.flex-conteiner{
+	display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+	width: 150px;
+    height: 100px;
+    justify-content: space-between;
+	
+}
+
+{
+	
+
+}
+
+.item4{
+	background-color: red;
+	width: 150px;
+	height: 100px;
+
+}
+
+.item5{
+	background-color: red;
+	width: 150px;
+	height: 100px;
+
+}
+
+.item6{
+	background-color: red;
+	width: 150px;
+	height: 100px;
+
+}
+
+.item7{
+	background-color: red;
+	width: 150px;
+	height: 100px;
+
+}
+
+.item8{
+	background-color: red;
+	width: 150px;
+	height: 100px;
+
+}

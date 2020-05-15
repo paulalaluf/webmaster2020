@@ -1,0 +1,66 @@
+
+
+.flex-conteiner{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+
+	
+	
+}
+
+.item1{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item2{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item3{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item4{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item5{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item6{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item7{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
+
+.item8{
+	background-color: red;
+	width: 150px;
+	height: 500px;
+
+}
